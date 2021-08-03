@@ -10,3 +10,5 @@
 6. product line, product size, and analysis was done the custom feature.
 7. A lot of missing values seen in data (~16 %), so the missing values were replaced with a Missing category indicator.
 8. Potential customers were presented in table on the dashboard
+
+![](https://github.com/DeyDipankar/PowerBI-Projects/blob/dev/Analysis%20of%20past%20customer%20data%20to%20find%20potential%20customers%20-%20KPMG%20Virtual%20Internship/Dashboard.JPG)

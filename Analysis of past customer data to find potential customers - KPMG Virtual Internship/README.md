@@ -1,4 +1,4 @@
-## Analysied past customer data to target potential customer for SpRocket Central bikes manufacturing company
+## Analysis of current customer data to target potential customer for SpRocket Central bikes manufacturing company
 
 ![](https://github.com/DeyDipankar/PowerBI-Projects/blob/dev/Analysis%20of%20past%20customer%20data%20to%20find%20potential%20customers%20-%20KPMG%20Virtual%20Internship/Dashboard.JPG)
 
